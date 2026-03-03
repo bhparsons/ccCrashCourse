@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/blakeparsons/.local/bin/uv run /Users/blakeparsons/ClaudeCode/UdemyCrashCourse/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
