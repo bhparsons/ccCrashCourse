@@ -11,3 +11,9 @@ wheels/
 
 # Playwright MCP logs
 .playwright-mcp/
+
+# MCP config (contains API keys)
+.mcp.json
+
+# Personal notes
+hookhub/TODO.md
